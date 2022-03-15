@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-demo/static/css/main.073c9b0a.css",
-    "main.js": "/react-demo/static/js/main.113ff4b1.js",
-    "static/js/787.252c5a3f.chunk.js": "/react-demo/static/js/787.252c5a3f.chunk.js",
-    "index.html": "/react-demo/index.html",
-    "main.073c9b0a.css.map": "/react-demo/static/css/main.073c9b0a.css.map",
-    "main.113ff4b1.js.map": "/react-demo/static/js/main.113ff4b1.js.map",
-    "787.252c5a3f.chunk.js.map": "/react-demo/static/js/787.252c5a3f.chunk.js.map"
+    "main.css": "/mars2-react-demo/static/css/main.073c9b0a.css",
+    "main.js": "/mars2-react-demo/static/js/main.d2aaff32.js",
+    "static/js/787.252c5a3f.chunk.js": "/mars2-react-demo/static/js/787.252c5a3f.chunk.js",
+    "index.html": "/mars2-react-demo/index.html",
+    "main.073c9b0a.css.map": "/mars2-react-demo/static/css/main.073c9b0a.css.map",
+    "main.d2aaff32.js.map": "/mars2-react-demo/static/js/main.d2aaff32.js.map",
+    "787.252c5a3f.chunk.js.map": "/mars2-react-demo/static/js/787.252c5a3f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.113ff4b1.js"
+    "static/js/main.d2aaff32.js"
   ]
 }
